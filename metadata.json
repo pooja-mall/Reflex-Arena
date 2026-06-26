@@ -1,0 +1,6 @@
+{
+  "name": "Reflex Arena",
+  "description": "A fast-paced neon arcade game testing your reflexes, memory, focus, and sound recognition with 20 levels of pure skill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
